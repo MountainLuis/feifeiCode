@@ -9,3 +9,4 @@ This is a sentence which writed on PC-1401
 
 Inset a sentence in PC-HP
 
+Just test the git which used HTTPS or SSH.
